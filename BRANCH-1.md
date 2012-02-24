@@ -1,3 +1,3 @@
 Source: BRANCH-1
-Modified: master
-This is master file
+Modified: branch-1
+This is branch-1 file
