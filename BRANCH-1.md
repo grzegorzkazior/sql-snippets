@@ -1,2 +1,3 @@
 Source: BRANCH-1
-Modified: head
+Modified: master
+This is master file
